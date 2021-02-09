@@ -1,0 +1,3 @@
+include ':pluginm'
+include ':app'
+rootProject.name = "InvokePro"
